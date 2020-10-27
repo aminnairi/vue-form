@@ -2,10 +2,10 @@
 
 ## Requirements
 
-- Git
-- Docker
-- Docker Compose
-- GNU/Make
+- [Git](https://git-scm.com/)
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
+- [GNU/Make](https://www.gnu.org/software/make/)
 
 ## Repository Installation
 
