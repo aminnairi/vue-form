@@ -20,14 +20,10 @@ $ cd ~/github.com/QALT/vue
 $ make install
 ```
 
-## Development
+## Start
 
 ```console
-$ make development
+$ make start
 ```
 
-## Production
-
-```console
-$ make production
-```
+> *Open [`127.0.0.1:8000`](http://127.0.0.1:8000) in your favorite browser, hit the `import` tab and select the `app` folder.*
